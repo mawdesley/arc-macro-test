@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@architect/architect": "10.3.4"
+    "@architect/architect": "10.4.0"
   }
 }
